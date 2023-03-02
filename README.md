@@ -1,4 +1,5 @@
 # Repositorio proyecto ADSO
+<p align="center"><img width="245" src="https://github.com/davidbcaro/adso-project/blob/main/01-Trimestre%201/React-icon.png?raw=true"></p>
 
 ## Objetivo general 🎯
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
