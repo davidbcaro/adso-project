@@ -1,4 +1,4 @@
-# Repositorio proyecto ADSO
+# Proyecto y entregabables ADSO
 <p align="center"><img width="245" src="https://github.com/davidbcaro/adso-project/blob/main/01-Trimestre%201/React-icon.png?raw=true"></p>
 
 ## Objetivo general 🎯
